@@ -1,0 +1,11 @@
+#stroka {
+	position: relative;
+	cursor: pointer;
+	width: 200px;
+	display: block;
+    }
+button {
+	width: 15%;
+	height: 25px;
+    }
+
